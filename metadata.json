@@ -1,0 +1,6 @@
+{
+  "name": "Jayy Study Planner",
+  "description": "A comprehensive study schedule planner for BSEB & CBSE students with interactive chapter-wise quizzes, detailed performance reports, focus timers, flashcards, local offline note-taking, a gamified leaderboard with rewards, and an AI Aura assistant for dynamic learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
